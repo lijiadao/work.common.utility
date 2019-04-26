@@ -1,0 +1,9 @@
+G:\mygit\开源\work.common.utility\work.common.utility\Work.Html\bin\Debug\netcoreapp2.1\Work.Html.deps.json
+G:\mygit\开源\work.common.utility\work.common.utility\Work.Html\bin\Debug\netcoreapp2.1\Work.Html.dll
+G:\mygit\开源\work.common.utility\work.common.utility\Work.Html\bin\Debug\netcoreapp2.1\Work.Html.pdb
+G:\mygit\开源\work.common.utility\work.common.utility\Work.Html\obj\Debug\netcoreapp2.1\Work.Html.csprojAssemblyReference.cache
+G:\mygit\开源\work.common.utility\work.common.utility\Work.Html\obj\Debug\netcoreapp2.1\Work.Html.csproj.CoreCompileInputs.cache
+G:\mygit\开源\work.common.utility\work.common.utility\Work.Html\obj\Debug\netcoreapp2.1\Work.Html.AssemblyInfoInputs.cache
+G:\mygit\开源\work.common.utility\work.common.utility\Work.Html\obj\Debug\netcoreapp2.1\Work.Html.AssemblyInfo.cs
+G:\mygit\开源\work.common.utility\work.common.utility\Work.Html\obj\Debug\netcoreapp2.1\Work.Html.dll
+G:\mygit\开源\work.common.utility\work.common.utility\Work.Html\obj\Debug\netcoreapp2.1\Work.Html.pdb

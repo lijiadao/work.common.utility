@@ -1,0 +1,9 @@
+G:\mygit\开源\work.common.utility\work.common.utility\Work.Encryption\bin\Debug\netcoreapp2.1\Work.Encryption.deps.json
+G:\mygit\开源\work.common.utility\work.common.utility\Work.Encryption\bin\Debug\netcoreapp2.1\Work.Encryption.dll
+G:\mygit\开源\work.common.utility\work.common.utility\Work.Encryption\bin\Debug\netcoreapp2.1\Work.Encryption.pdb
+G:\mygit\开源\work.common.utility\work.common.utility\Work.Encryption\obj\Debug\netcoreapp2.1\Work.Encryption.csprojAssemblyReference.cache
+G:\mygit\开源\work.common.utility\work.common.utility\Work.Encryption\obj\Debug\netcoreapp2.1\Work.Encryption.csproj.CoreCompileInputs.cache
+G:\mygit\开源\work.common.utility\work.common.utility\Work.Encryption\obj\Debug\netcoreapp2.1\Work.Encryption.AssemblyInfoInputs.cache
+G:\mygit\开源\work.common.utility\work.common.utility\Work.Encryption\obj\Debug\netcoreapp2.1\Work.Encryption.AssemblyInfo.cs
+G:\mygit\开源\work.common.utility\work.common.utility\Work.Encryption\obj\Debug\netcoreapp2.1\Work.Encryption.dll
+G:\mygit\开源\work.common.utility\work.common.utility\Work.Encryption\obj\Debug\netcoreapp2.1\Work.Encryption.pdb

@@ -1,0 +1,11 @@
+G:\mygit\开源\work.common.utility\work.common.utility\TestConsole\bin\Debug\netcoreapp2.1\TestConsole.deps.json
+G:\mygit\开源\work.common.utility\work.common.utility\TestConsole\bin\Debug\netcoreapp2.1\TestConsole.runtimeconfig.json
+G:\mygit\开源\work.common.utility\work.common.utility\TestConsole\bin\Debug\netcoreapp2.1\TestConsole.runtimeconfig.dev.json
+G:\mygit\开源\work.common.utility\work.common.utility\TestConsole\bin\Debug\netcoreapp2.1\TestConsole.dll
+G:\mygit\开源\work.common.utility\work.common.utility\TestConsole\bin\Debug\netcoreapp2.1\TestConsole.pdb
+G:\mygit\开源\work.common.utility\work.common.utility\TestConsole\obj\Debug\netcoreapp2.1\TestConsole.csprojAssemblyReference.cache
+G:\mygit\开源\work.common.utility\work.common.utility\TestConsole\obj\Debug\netcoreapp2.1\TestConsole.csproj.CoreCompileInputs.cache
+G:\mygit\开源\work.common.utility\work.common.utility\TestConsole\obj\Debug\netcoreapp2.1\TestConsole.AssemblyInfoInputs.cache
+G:\mygit\开源\work.common.utility\work.common.utility\TestConsole\obj\Debug\netcoreapp2.1\TestConsole.AssemblyInfo.cs
+G:\mygit\开源\work.common.utility\work.common.utility\TestConsole\obj\Debug\netcoreapp2.1\TestConsole.dll
+G:\mygit\开源\work.common.utility\work.common.utility\TestConsole\obj\Debug\netcoreapp2.1\TestConsole.pdb

@@ -1,0 +1,100 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "e4542de89bf24c5abc3493a5c54e3ff36658547d"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Work.Http/1.0.0": {
+        "dependencies": {
+          "Flurl": "2.8.1",
+          "Flurl.Http": "2.4.1"
+        },
+        "runtime": {
+          "Work.Http.dll": {}
+        }
+      },
+      "Flurl/2.8.1": {
+        "runtime": {
+          "lib/netstandard2.0/Flurl.dll": {
+            "assemblyVersion": "2.8.1.0",
+            "fileVersion": "2.8.1.0"
+          }
+        }
+      },
+      "Flurl.Http/2.4.1": {
+        "dependencies": {
+          "Flurl": "2.8.1",
+          "Newtonsoft.Json": "11.0.2",
+          "System.Text.Encoding.CodePages": "4.4.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Flurl.Http.dll": {
+            "assemblyVersion": "2.4.1.0",
+            "fileVersion": "2.4.1.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/11.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.0.2.21924"
+          }
+        }
+      },
+      "System.Text.Encoding.CodePages/4.4.0": {
+        "runtime": {
+          "lib/netstandard2.0/System.Text.Encoding.CodePages.dll": {
+            "assemblyVersion": "4.1.0.0",
+            "fileVersion": "4.6.25519.3"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/netcoreapp2.0/System.Text.Encoding.CodePages.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "4.1.0.0",
+            "fileVersion": "4.6.25519.3"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Work.Http/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Flurl/2.8.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-u0arMGETeS89yuVrE97UAbaloDeuHc+fhQJhRd1EhEsUnSa4s3sE0uGFMm37iqC5mkTgLmxeQEBdgq5jpHWX/Q==",
+      "path": "flurl/2.8.1",
+      "hashPath": "flurl.2.8.1.nupkg.sha512"
+    },
+    "Flurl.Http/2.4.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-TWqNCiDYKpvFb1VMll6qow0ah06vMrG0DnbzVTHN5+Ie5eoBgyKLYWgnTmWn9xJiRPOz5ZBRM0yEtJANsPaPeg==",
+      "path": "flurl.http/2.4.1",
+      "hashPath": "flurl.http.2.4.1.nupkg.sha512"
+    },
+    "Newtonsoft.Json/11.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IvJe1pj7JHEsP8B8J8DwlMEx8UInrs/x+9oVY+oCD13jpLu4JbJU2WCIsMRn5C4yW9+DgkaO8uiVE5VHKjpmdQ==",
+      "path": "newtonsoft.json/11.0.2",
+      "hashPath": "newtonsoft.json.11.0.2.nupkg.sha512"
+    },
+    "System.Text.Encoding.CodePages/4.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2kJdGfQXtL2o9WvbNvHfxbRY/hUPOyAFhft+Tc7ye93Rx4QMbB+Gxn8SGHhZoKYMGpgujUTkTVyZqTYKkjnXqQ==",
+      "path": "system.text.encoding.codepages/4.4.0",
+      "hashPath": "system.text.encoding.codepages.4.4.0.nupkg.sha512"
+    }
+  }
+}

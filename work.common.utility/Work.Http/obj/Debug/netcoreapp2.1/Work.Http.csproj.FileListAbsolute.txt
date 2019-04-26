@@ -1,0 +1,9 @@
+G:\mygit\开源\work.common.utility\work.common.utility\Work.Http\bin\Debug\netcoreapp2.1\Work.Http.deps.json
+G:\mygit\开源\work.common.utility\work.common.utility\Work.Http\bin\Debug\netcoreapp2.1\Work.Http.dll
+G:\mygit\开源\work.common.utility\work.common.utility\Work.Http\obj\Debug\netcoreapp2.1\Work.Http.csprojAssemblyReference.cache
+G:\mygit\开源\work.common.utility\work.common.utility\Work.Http\obj\Debug\netcoreapp2.1\Work.Http.csproj.CoreCompileInputs.cache
+G:\mygit\开源\work.common.utility\work.common.utility\Work.Http\obj\Debug\netcoreapp2.1\Work.Http.AssemblyInfoInputs.cache
+G:\mygit\开源\work.common.utility\work.common.utility\Work.Http\obj\Debug\netcoreapp2.1\Work.Http.AssemblyInfo.cs
+G:\mygit\开源\work.common.utility\work.common.utility\Work.Http\bin\Debug\netcoreapp2.1\Work.Http.pdb
+G:\mygit\开源\work.common.utility\work.common.utility\Work.Http\obj\Debug\netcoreapp2.1\Work.Http.dll
+G:\mygit\开源\work.common.utility\work.common.utility\Work.Http\obj\Debug\netcoreapp2.1\Work.Http.pdb

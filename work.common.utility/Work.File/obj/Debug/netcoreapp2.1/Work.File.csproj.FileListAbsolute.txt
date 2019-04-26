@@ -1,0 +1,8 @@
+G:\mygit\开源\work.common.utility\work.common.utility\Work.File\bin\Debug\netcoreapp2.1\Work.File.deps.json
+G:\mygit\开源\work.common.utility\work.common.utility\Work.File\bin\Debug\netcoreapp2.1\Work.File.dll
+G:\mygit\开源\work.common.utility\work.common.utility\Work.File\bin\Debug\netcoreapp2.1\Work.File.pdb
+G:\mygit\开源\work.common.utility\work.common.utility\Work.File\obj\Debug\netcoreapp2.1\Work.File.csproj.CoreCompileInputs.cache
+G:\mygit\开源\work.common.utility\work.common.utility\Work.File\obj\Debug\netcoreapp2.1\Work.File.AssemblyInfoInputs.cache
+G:\mygit\开源\work.common.utility\work.common.utility\Work.File\obj\Debug\netcoreapp2.1\Work.File.AssemblyInfo.cs
+G:\mygit\开源\work.common.utility\work.common.utility\Work.File\obj\Debug\netcoreapp2.1\Work.File.dll
+G:\mygit\开源\work.common.utility\work.common.utility\Work.File\obj\Debug\netcoreapp2.1\Work.File.pdb
